@@ -1,0 +1,51 @@
+book_id,title,isbn,publisher,year,quantity,available,author_id,category_id
+1,The Shadow of the Wind,460392307-4,Rhynoodle,2015,8,true,46,8
+2,Atonement,595334780-4,Flashdog,1918,10,false,23,6
+3,The English Patient,416671246-2,Photospace,1976,14,true,1,4
+4,The Night Circus,696343417-4,Eidel,1946,15,false,15,2
+5,Jane Eyre,470460877-8,Jaloo,1975,20,true,26,2
+6,The Night Circus,234552647-5,Meeveo,1940,15,true,2,3
+7,The Martian,576890646-0,Miboo,1932,3,false,13,4
+8,The Lord of the Rings,004724501-8,Ooba,1922,17,false,49,5
+9,The English Patient,517976147-6,Realfire,1966,4,true,49,9
+10,Wuthering Heights,834169703-3,Brainverse,1907,20,true,6,4
+11,Slaughterhouse-Five,384509662-4,Avavee,1992,17,true,31,8
+12,Brave New World,759781978-1,Bubbletube,1993,18,true,35,6
+13,The Kite Runner,095843704-1,Twinte,1933,6,true,8,4
+14,The Odyssey,967095385-5,Fiveclub,1944,11,true,43,3
+15,It,498748330-0,Meevee,1988,11,true,18,3
+16,The Night Circus,730826672-9,Kazio,1951,15,true,42,3
+17,The Silent Patient,966018337-2,Browsebug,1908,16,true,12,6
+18,The Silent Patient,738075747-4,Gigaclub,2003,18,false,29,9
+19,The Goldfinch,361768249-9,Jaxbean,2007,19,false,5,1
+20,The Name of the Rose,684430049-2,Realblab,2014,8,true,34,7
+21,Jane Eyre,529743185-9,Jaxnation,1907,2,false,29,4
+22,Catch-22,002811490-6,Feedmix,1986,16,false,8,7
+23,1984,166615094-0,Kare,1974,19,false,17,3
+24,Where the Crawdads Sing,020795891-2,Brainsphere,1959,3,true,16,7
+25,A Little Life,527810378-7,Browsecat,1923,20,true,18,9
+26,Frankenstein,462907400-7,Youspan,1933,11,true,17,6
+27,The Goldfinch,524770086-4,Meetz,1946,17,true,1,7
+28,Catch-22,137865245-2,Buzzster,2012,2,false,3,2
+29,The Shining,349925311-9,Topicware,2008,17,false,7,9
+30,The English Patient,969326918-7,Nlounge,2000,10,true,31,5
+31,The Silent Patient,839522445-1,Kazu,1927,8,true,44,3
+32,The Book Thief,604463762-X,Gabtype,1986,5,false,8,2
+33,A Little Life,229282786-7,Jabberstorm,1924,12,true,15,4
+34,To Kill a Mockingbird,784910213-4,Rhynoodle,1901,3,false,14,10
+35,The Name of the Rose,475395572-9,Feedspan,1955,4,false,40,8
+36,Project Hail Mary,069925481-7,Izio,1931,12,true,35,8
+37,The Hobbit,924151109-5,Gabspot,1986,8,true,32,4
+38,Jane Eyre,370040312-7,Mita,1983,1,true,34,9
+39,The Book Thief,338784658-4,Skiptube,1965,18,true,15,8
+40,Frankenstein,420053204-2,Jamia,1973,4,false,39,9
+41,The Hobbit,383300307-3,Wikizz,1901,16,true,38,1
+42,It,760019895-9,Eire,1928,11,false,2,9
+43,It,134700789-X,Topicstorm,1900,10,false,50,8
+44,Brave New World,364033545-7,Zoovu,1946,8,true,44,1
+45,It,062951328-7,Devshare,2016,15,false,46,6
+46,Pride and Prejudice,826246049-9,Jayo,1924,11,false,39,3
+47,The Girl with the Dragon Tattoo,984569871-9,Jaxworks,2017,4,false,31,8
+48,To Kill a Mockingbird,348235944-X,Riffpath,1985,6,true,23,4
+49,Slaughterhouse-Five,349044630-5,Yamia,2008,13,true,6,3
+50,Crime and Punishment,836084284-1,Podcat,1902,1,true,2,9
