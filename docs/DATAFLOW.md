@@ -14,16 +14,19 @@ Data enters the system through librarian and admin operations. Librarians add bo
 - Book borrowing transactions are stored in the ISSUES table.
 - Fine records for overdue books are stored in the FINES table.
 
-The ISSUES table depends on MEMBERS and BOOKS tables. The FINES table depends on the ISSUES table.
+## Table Dependencies
+-The BOOKS table depends on AUTHORS and CATEGORIES.
+-The ISSUES table depends on MEMBERS and BOOKS.
+-The FINES table depends on the ISSUES table.
 
 ## Data Output
 
 The system generates:
-- available books lists
-- issued books reports
-- overdue books reports
-- fine reports
-- member borrowing history
-- inventory management information
+- Available books lists
+- Issued books reports
+- Overdue books reports
+- Fine reports
+- Member borrowing history
+- Inventory management information
 
 The data can also be exported for reporting and analytics purposes.
