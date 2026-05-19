@@ -1,0 +1,2 @@
+Library-Management-System-DBLab
+Library Management System is a relational database project developed to manage books, members, borrowing records, and fine management efficiently. The system uses a normalized MySQL database to store and organize information about books, authors, categories, members, and issue transactions. It provides an easy way to track book availability, borrowing history, overdue records, and fines while maintaining data integrity through primary and foreign key relationships.
