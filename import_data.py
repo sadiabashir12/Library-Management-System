@@ -61,14 +61,14 @@ import_csv(
 import_csv(
     "csv_files/ROLES.csv",
     "roles",
-    ["role_id", "role_name", "max_books"]
+    ["role_id", "role_name", "max_books", "borrow_days", "fine_per_day"]
 )
 
 # MEMBERS
 import_csv(
     "csv_files/MEMBERS.csv",
     "members",
-    ["member_id", "member_name", "email", "phone", "role_id"]
+    ["member_id", "member_name", "email", "phone", "address", "role_id"]
 )
 
 # BOOKS
@@ -80,8 +80,12 @@ import_csv(
         "title",
         "author_id",
         "category_id",
-        "published_year",
-        "available_copies"
+        "publisher",
+        "year", 
+        "quantity", 
+        "isnb", 
+        "available"
+        
     ]
 )
 
@@ -112,8 +116,8 @@ import_csv(
     [
         "fine_id",
         "issue_id",
-        "fine_amount",
-        "fine_status"
+        "amount",
+        "paid"
     ]
 )
 
