@@ -1,4 +1,4 @@
 role_id,role_name,max_books,borrow_days,fine_per_day
-1,Researcher,1,29,1.8
-2,Researcher,7,12,3.47
-3,Researcher,9,22,1.44
+1,Researcher,10,29,1.8
+2,Student,7,12,3.47
+3,Teacher,5,22,1.44
